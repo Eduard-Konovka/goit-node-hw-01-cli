@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01-cli",
+  "version": "1.0.0",
+  "description": "Home work #1 of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduard-Konovka/goit-node-hw-01-cli.git"
+  },
+  "keywords": [],
+  "author": "Eduard Konovka <ed098ua@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduard-Konovka/goit-node-hw-01-cli/issues"
+  },
+  "homepage": "https://github.com/Eduard-Konovka/goit-node-hw-01-cli#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "yargs": "^17.3.1"
+  }
+}
