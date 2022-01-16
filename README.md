@@ -2,25 +2,25 @@
 
 ## Получаем и выводим весь список контактов в виде таблицы (console.table)
 
-<img src="./images/contactsList.jpg" alt="Contacts list" width="400" />
+<img src="./images/contactsList.jpg" alt="Contacts list" with="400" />
 
 ## Получаем контакт по id
 
-<img src="./images/contactById.jpg" alt="Contact by id" width="400" />
+<img src="./images/contactById.jpg" alt="Contact by id" with="400" />
 
 ## Добавялем контакт
 
-<img src="./images/addContact.jpg" alt="Add contact" width="400" />
+<img src="./images/addContact.jpg" alt="Add contact" with="400" />
 
 ## Обновляем контакт
 
-<img src="./images/updateContact.jpg" alt="Update contact" width="400" />
+<img src="./images/updateContact.jpg" alt="Update contact" with="400" />
 
 ## Удаляем контакт
 
-<img src="./images/remuveContact.jpg" alt="Remuve contact" width="400" />
+<img src="./images/remuveContact.jpg" alt="Remuve contact" with="400" />
 
-# -----------------------------------------------------------------------------
+#
 
 # Домашнее задание 1
 
